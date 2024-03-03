@@ -1,16 +1,16 @@
 {
   "routes": [
     {
-      "src": "/.*",
-      "dest": "/api/login/login.go"
-    },
-    {
       "src": "/demo",
       "dest": "/api/demo/demo.go"
     },
     {
       "src": "/demo1",
       "dest": "/api/demo/demo1.go"
+    },
+    {
+      "src": "/.*",
+      "dest": "/api/login/login.go"
     }
   ]
 }
