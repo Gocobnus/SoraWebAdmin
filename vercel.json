@@ -2,11 +2,11 @@
   "routes": [
     {
       "src": "/demo",
-      "dest": "/api/demo.go"
+      "dest": "/api/demo/demo.go"
     },
     {
       "src": "/demo1",
-      "dest": "/api/demo1.go"
+      "dest": "/api/demo/demo1.go"
     }
   ]
 }
